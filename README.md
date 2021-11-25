@@ -7,4 +7,3 @@
 - 💞️ I’m looking to collaborate on ROS | AI | Machine Vision | Industry 4.0
 - 🔭 I’m currently working on Deep Learning | Computer Vision | ROS.
 - 📫 How to reach me: vijaypurohit322@gmail.com
-
