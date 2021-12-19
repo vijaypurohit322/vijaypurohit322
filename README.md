@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning ROS(Robot Operating System).
 - 💞️ I’m looking to collaborate on ROS | AI | Machine Vision | Industry 4.0
 - 🔭 I’m currently working on Deep Learning | Computer Vision | ROS.
-- 📫 How to reach me: vijaypurohit322@gmail.com
+- 📫 Drop me mail at: vijaypurohit322@gmail.com
