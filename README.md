@@ -10,6 +10,13 @@
 - 📫 Drop me mail at: vijaypurohit322@gmail.com
 - ❤️ Love to write code in Python, C++.
 
+</br>
+</br>
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+
+---
+
 <i>Follow me around the web:</i><br>
 
 <a href="https://www.linkedin.com/in/vijay-singh-purohit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
