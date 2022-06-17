@@ -11,6 +11,17 @@
 - ❤️ Love to write code in Python, C++.
 
 </br>
+<div align="center">
+
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/vijaypurohit322/vijaypurohit322/issues/new"><b>here</b></a><br>
+or <a href="mailto:vijaypurohit322@gmail.com"><b>email</b></a> me.
+
+<i>Happy Coding!</i> 😊
+
+</div>
+
 </br>
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
