@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🌟 **AI Engineer | Computer Vision Expert | Generative AI Specialist | Space Tech Enthusiast** 🌟
+### 🌟 **AI Engineer | Computer Vision | Generative AI | Space Tech** 🌟
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-singh-purohit)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vijaypurohit322)
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm Vijay, an **AI Engineer** specializing in **Computer Vision**, **Generative AI**, and **diffusion models** with a passion for deploying privacy-preserving AI solutions. Currently working at **SkyServe** 🛰️, I focus on developing cutting-edge AI systems for satellite, drone, and ground-based surveillance applications, with particular expertise in **Generative AI techniques** and **diffusion model architectures**.
+Hello! I'm Vijay, an **AI Engineer** specializing in **Computer Vision**, **Generative AI**, and **diffusion models** with a passion for deploying privacy-preserving AI solutions. Currently working at **SkyServe** 🛰️, I focus on developing cutting-edge AI systems for satellite, drone, and ground-based surveillance applications, with expertise in Image Processing, **Generative AI techniques** and **diffusion model architectures**.
 
 🌍 **Location:** India 🇮🇳  
 🏢 **Organization:** SkyServe  
