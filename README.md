@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🌟 **AI Engineer | Computer Vision Expert | Space Tech Enthusiast** 🌟
+### 🌟 **AI Engineer | Computer Vision Expert | Generative AI Specialist | Space Tech Enthusiast** 🌟
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-singh-purohit)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vijaypurohit322)
@@ -19,11 +19,11 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm Vijay, an **AI Engineer** specializing in **Computer Vision** and **R&D** with a passion for deploying privacy-preserving AI solutions. Currently working at **SkyServe** 🛰️, I focus on developing cutting-edge AI systems for satellite, drone, and ground-based surveillance applications.
+Hello! I'm Vijay, an **AI Engineer** specializing in **Computer Vision**, **Generative AI**, and **diffusion models** with a passion for deploying privacy-preserving AI solutions. Currently working at **SkyServe** 🛰️, I focus on developing cutting-edge AI systems for satellite, drone, and ground-based surveillance applications, with particular expertise in **Generative AI techniques** and **diffusion model architectures**.
 
 🌍 **Location:** India 🇮🇳  
 🏢 **Organization:** SkyServe  
-💼 **Focus Areas:** Computer Vision, Deep Learning, Edge Computing, Space Technology
+💼 **Focus Areas:** Computer Vision, Deep Learning, Generative AI, Diffusion Models, Edge Computing, Space Technology
 
 ---
 
@@ -32,6 +32,7 @@ Hello! I'm Vijay, an **AI Engineer** specializing in **Computer Vision** and **R
 <div align="center">
 
 ### 🖥️ **Programming Languages**
+
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 [![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
@@ -40,6 +41,7 @@ Hello! I'm Vijay, an **AI Engineer** specializing in **Computer Vision** and **R
 [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
 
 ### 🤖 **AI/ML Frameworks & Libraries**
+
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
 [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
@@ -47,11 +49,13 @@ Hello! I'm Vijay, an **AI Engineer** specializing in **Computer Vision** and **R
 [![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://skillicons.dev)
 
 ### ☁️ **Cloud Platforms**
+
 [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 [![Azure](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
 [![GCP](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
 
 ### 🔧 **Development Tools**
+
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
@@ -60,12 +64,14 @@ Hello! I'm Vijay, an **AI Engineer** specializing in **Computer Vision** and **R
 [![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)
 
 ### 🖥️ **Operating Systems**
+
 [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
 [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 
 ### 🗄️ **Databases**
+
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
@@ -73,6 +79,7 @@ Hello! I'm Vijay, an **AI Engineer** specializing in **Computer Vision** and **R
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
 
 ### 🔌 **Hardware & IoT**
+
 [![Arduino](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
 
@@ -81,8 +88,6 @@ Hello! I'm Vijay, an **AI Engineer** specializing in **Computer Vision** and **R
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
@@ -93,24 +98,18 @@ Hello! I'm Vijay, an **AI Engineer** specializing in **Computer Vision** and **R
 | 🔐 **OTP Login System** | Secure mobile-based authentication | Python, SMS API | [View Project](https://github.com/vijaypurohit322/Build-OTP-based-login-system) |
 | 🤖 **Machine Learning Collection** | Comprehensive ML algorithms and projects | Python, Jupyter, Scikit-learn | [View Project](https://github.com/vijaypurohit322/Machine-Learning) |
 
-</div>
-
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijaypurohit322&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaypurohit322&layout=compact&theme=tokyonight&langs_count=8"/>
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaypurohit322&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaypurohit322&layout=compact&theme=radical)
 
-</div>
+[![GitHub Streak](https://git.io/streak-stats)](https://git.io/streak-stats)
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijaypurohit322&theme=tokyonight)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vijaypurohit322&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vijaypurohit322&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -118,21 +117,22 @@ Hello! I'm Vijay, an **AI Engineer** specializing in **Computer Vision** and **R
 
 ## 🎯 Current Focus
 
-```yaml
-Current Explorations:
-  - 🧠 Deep Learning & Transfer Learning
-  - 🛰️ Satellite & Drone Imagery Analysis  
-  - ⚡ Edge Computing on Nvidia Jetson & Xilinx
-  - 🔒 Privacy-Preserving AI Solutions
-  - ☁️ Scalable AI Systems on AWS, Azure, GCP
+**Current Explorations:**
+- 🧠 **Deep Learning & Transfer Learning**
+- 🎨 **Generative AI & Diffusion Models** (Stable Diffusion, DALL-E architectures)
+- 🛰️ **Satellite & Drone Imagery Analysis**  
+- ⚡ **Edge Computing on Nvidia Jetson & Xilinx**
+- 🔒 **Privacy-Preserving AI Solutions**
+- ☁️ **Scalable AI Systems on AWS, Azure, GCP**
+- 🔬 **Advanced Diffusion Model Research & Implementation**
 
-Specializations:
-  - Computer Vision
-  - Machine Vision
-  - Process Mining
-  - Space Technology
-  - Industry 4.0
-```
+**Specializations:**
+- Computer Vision
+- Machine Vision
+- **Generative AI & Diffusion Models**
+- Process Mining
+- Space Technology
+- Industry 4.0
 
 ---
 
@@ -140,25 +140,30 @@ Specializations:
 
 <div align="center">
 
-### 🌟 **I'm actively seeking collaboration opportunities in:** 🌟
+### 🌟 I'm actively seeking collaboration opportunities in: 🌟
 
 🛰️ **AI in Space Technology**  
 🏭 **Industry 4.0 Solutions**  
 📱 **Embedded Systems for Vision Applications**  
 ☁️ **Cloud-Based AI Systems**  
+🎨 **Generative AI & Diffusion Model Projects**  
 🔬 **Research & Development Projects**
+
+</div>
 
 ---
 
-### 📬 **Get in Touch**
+## 📬 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-singh-purohit)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vijaypurohit322)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vijay_singh_purohit)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10303249/vijay-singh-purohit)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaypurohit322@gmail.com)
+<div align="center">
 
-**💌 Have an exciting project idea? [Drop me a message](https://github.com/vijaypurohit322/vijaypurohit322/issues/new) or [send an email](mailto:vijaypurohit322@gmail.com)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-singh-purohit)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vijaypurohit322)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vijay_singh_purohit)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10303249/vijay-singh-purohit)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaypurohit322@gmail.com)
+
+**💌 Have an exciting project idea?** [Drop me a message](https://github.com/vijaypurohit322/vijaypurohit322/issues/new) **or** [send an email](mailto:vijaypurohit322@gmail.com)
 
 </div>
 
@@ -166,16 +171,10 @@ Specializations:
 
 <div align="center">
 
-### 😄 Daily Motivation
+⭐ **Feel free to explore my repositories, raise issues, and submit PRs!**  
+🚀 **Let's build the future of AI together!**  
 
-[![README Jokes](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)](https://github.com/ABSphreak/readme-jokes)
-
----
-
-**⭐ Feel free to explore my repositories, raise issues, and submit PRs!**  
-**🚀 Let's build the future of AI together!**
-
-*"The only way to break your limits is to challenge them."* 🎯
+*"The only way to break your limits is to challenge them."* 🎯  
 
 **Happy Coding! 😊**
 
