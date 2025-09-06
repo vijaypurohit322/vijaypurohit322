@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-singh-purohit)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vijaypurohit322)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaypurohit322@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/vijay-singh-purohit)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://vijaypurohit322.github.io/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vijaypurohit322&color=brightgreen&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/vijaypurohit322?style=for-the-badge&color=blue)
@@ -23,7 +23,8 @@ Hello! I'm Vijay, an **AI Engineer** specializing in **Computer Vision**, **Gene
 
 🌍 **Location:** India 🇮🇳  
 🏢 **Organization:** SkyServe  
-💼 **Focus Areas:** Computer Vision, Deep Learning, Generative AI, Diffusion Models, Edge Computing, Space Technology
+💼 **Focus Areas:** Computer Vision, Deep Learning, Generative AI, Diffusion Models, Edge Computing, Space Technology  
+🌐 **Portfolio:** [https://vijaypurohit322.github.io/](https://vijaypurohit322.github.io/)
 
 ---
 
@@ -91,27 +92,25 @@ Hello! I'm Vijay, an **AI Engineer** specializing in **Computer Vision**, **Gene
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| 🛰️ **DataScientist Capstone Project** | Advanced data science project with ML models | Python, Jupyter | [View Project](https://github.com/vijaypurohit322/DataScientist-Capstone-Project) |
-| 🚨 **Disaster Response Pipeline** | Real-time disaster response ML pipeline | Python, ML, NLP | [View Project](https://github.com/vijaypurohit322/DataScientist-Disater-Response-Pipeline) |
-| 🚗 **Self-Driving Car Lane Detection** | Advanced lane finding for autonomous vehicles | Python, Computer Vision | [View Project](https://github.com/vijaypurohit322/SelfDrivingCar-Advance-Lane_finding-Project) |
-| 🛒 **E-Commerce Platform** | Full-stack e-commerce website | Django, Python, JavaScript | [View Project](https://github.com/vijaypurohit322/E-Commerce-website-using-Django_and_Python) |
-| 🔐 **OTP Login System** | Secure mobile-based authentication | Python, SMS API | [View Project](https://github.com/vijaypurohit322/Build-OTP-based-login-system) |
-| 🤖 **Machine Learning Collection** | Comprehensive ML algorithms and projects | Python, Jupyter, Scikit-learn | [View Project](https://github.com/vijaypurohit322/Machine-Learning) |
+| 🛰️ DataScientist Capstone Project | Advanced data science project with ML models | Python, Jupyter | [View Project](https://github.com/vijaypurohit322/DataScientist-Capstone-Project) |
+| 🚨 Disaster Response Pipeline | Real-time disaster response ML pipeline | Python, ML, NLP | [View Project](https://github.com/vijaypurohit322/DataScientist-Disater-Response-Pipeline) |
+| 🚗 Self-Driving Car Lane Detection | Advanced lane finding for autonomous vehicles | Python, Computer Vision | [View Project](https://github.com/vijaypurohit322/SelfDrivingCar-Advance-Lane_finding-Project) |
+| 🛒 E-Commerce Platform | Full-stack e-commerce website | Django, Python, JavaScript | [View Project](https://github.com/vijaypurohit322/E-Commerce-website-using-Django_and_Python) |
+| 🔐 OTP Login System | Secure mobile-based authentication | Python, SMS API | [View Project](https://github.com/vijaypurohit322/Build-OTP-based-login-system) |
+| 🤖 Machine Learning Collection | Comprehensive ML algorithms and projects | Python, Jupyter, Scikit-learn | [View Project](https://github.com/vijaypurohit322/Machine-Learning) |
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaypurohit322&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaypurohit322&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijaypurohit322&show_icons=true&theme=radical&count_private=true" alt="Vijay's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaypurohit322&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 [![GitHub Streak](https://git.io/streak-stats)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vijaypurohit322&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -162,6 +161,7 @@ Hello! I'm Vijay, an **AI Engineer** specializing in **Computer Vision**, **Gene
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vijay_singh_purohit)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10303249/vijay-singh-purohit)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaypurohit322@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://vijaypurohit322.github.io/)
 
 **💌 Have an exciting project idea?** [Drop me a message](https://github.com/vijaypurohit322/vijaypurohit322/issues/new) **or** [send an email](mailto:vijaypurohit322@gmail.com)
 
