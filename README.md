@@ -92,6 +92,7 @@ Hello! I'm Vijay, an **AI Engineer** specializing in **Computer Vision**, **Gene
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
+| 📷 Tile Bbox Exporter Tool | Image tile selector and exporter tool to break image into desired tile size along with multi class Annotation support | Python, TK | [View Project](https://github.com/SkyServe-AI/tile-bbox-exporter)
 | 🛰️ DataScientist Capstone Project | Advanced data science project with ML models | Python, Jupyter | [View Project](https://github.com/vijaypurohit322/DataScientist-Capstone-Project) |
 | 🚨 Disaster Response Pipeline | Real-time disaster response ML pipeline | Python, ML, NLP | [View Project](https://github.com/vijaypurohit322/DataScientist-Disater-Response-Pipeline) |
 | 🚗 Self-Driving Car Lane Detection | Advanced lane finding for autonomous vehicles | Python, Computer Vision | [View Project](https://github.com/vijaypurohit322/SelfDrivingCar-Advance-Lane_finding-Project) |
