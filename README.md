@@ -110,7 +110,7 @@ Hello! I'm Vijay, an **AI Engineer** specializing in **Computer Vision**, **Gene
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaypurohit322&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-[![GitHub Streak](https://git.io/streak-stats)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vijaypurohit322)]([https://git.io/streak-stats](https://streak-stats.demolab.com/?user=vijaypurohit322))
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vijaypurohit322&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
