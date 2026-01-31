@@ -106,7 +106,7 @@ Hello! I'm Vijay, an **AI Engineer** specializing in **Computer Vision**, **Gene
 
 ## 📊 GitHub Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=vijaypurohit322&theme=dark&border_radius=3.5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-vijaypurohit322-p1q915sxf.vercel.app/?user=vijaypurohit322&theme=dark&border_radius=3.5)](https://git.io/streak-stats)
 
 ![trophy](https://github-profile-trophy-tawny.vercel.app/?username=vijaypurohit322&theme=onedark)
 
