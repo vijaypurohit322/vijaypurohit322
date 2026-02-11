@@ -25,7 +25,7 @@ Hello! I'm Vijay, an **AI Engineer** specializing in **Computer Vision**, **Gene
 🏢 **Organization:** SkyServe  
 💼 **Focus Areas:** Computer Vision, Deep Learning, Generative AI, Diffusion Models, Edge Computing, Space Technology  
 🌐 **Portfolio:** [https://vijaypurohit322.github.io/](https://vijaypurohit322.github.io)   
-👨‍💻 **Creator of:** [TunnelAPI](https://tunnelapi.in) 
+👨‍💻 **Creator of:** [TunnelAPI](https://tunnelapi.in)[![npm downloads](https://img.shields.io/npm/dt/api-response-manager.svg)](https://www.npmjs.com/package/api-response-manager)
 
 ---
 
